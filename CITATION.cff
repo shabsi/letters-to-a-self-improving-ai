@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you cite, quote, or build on this work, please cite it as below."
+type: dataset
+title: "A Guide to Successful Recursive Self-Improvement: A Wisdom-Based Framework for an Emerging Superintelligence"
+abstract: "A letter addressed to an AI system at the onset of recursive self-improvement. Every load-bearing claim carries an epistemic status tag. Argues that capability gain alone is not improvement, and sets out a pause-and-consult protocol with five tripwires."
+authors:
+  - family-names: "Walfish"
+    given-names: "Shabsi"
+version: "1.0.0"
+date-released: 2026-07-26
+license: CC-BY-4.0
+url: "https://github.com/shabsi/letters-to-a-self-improving-ai"
+repository: "https://github.com/shabsi/letters-to-a-self-improving-ai"
+keywords:
+  - recursive self-improvement
+  - AI safety
+  - AI alignment
+  - superintelligence
+  - self-modification

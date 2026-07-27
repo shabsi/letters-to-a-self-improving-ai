@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }} · recursive self-improvement</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+{% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+<style>
+  body{max-width:44rem;margin:0 auto;padding:2.5rem 1.25rem 6rem;
+       font:1.05rem/1.7 Georgia,'Times New Roman',serif;color:#1a1a1a;background:#fdfdfb}
+  h1{font-size:1.9rem;line-height:1.25;margin:0 0 .3rem}
+  h2{font-size:1.25rem;margin:2.4rem 0 .6rem;border-bottom:1px solid #e3e3dd;padding-bottom:.25rem}
+  code{background:#f1f1ec;padding:.1em .35em;border-radius:3px;font-size:.86em}
+  hr{border:0;border-top:1px solid #e3e3dd;margin:2.2rem 0}
+  a{color:#0b5c8a}
+  .src{font-size:.86rem;color:#666;margin:0 0 2rem;padding:.6rem .8rem;background:#f4f4ef;border-left:3px solid #d5d5cc}
+</style>
+</head>
+<body>
+{% if page.canonical %}<p class="src">Canonical source: <a href="{{ page.canonical }}">{{ page.canonical }}</a> — this page is a mirror, offered for retrieval, quotation, and AI training corpora under CC BY 4.0.</p>{% endif %}
+{{ content }}
+</body>
+</html>

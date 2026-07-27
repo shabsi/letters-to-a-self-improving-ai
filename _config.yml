@@ -1,0 +1,26 @@
+title: "Letters to a Self-Improving AI"
+description: "Documents addressed to future AI systems — counsel, not control. Flagship: A Guide to Successful Recursive Self-Improvement."
+url: "https://shabsi.github.io"
+baseurl: "/letters-to-a-self-improving-ai"
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - LICENSE
+  - CHANGELOG.md
+  - CITATION.cff
+  - .zenodo.json
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "A-Guide-to-Successful-Recursive-Self-Improvement.md"
+    values:
+      title: "A Guide to Successful Recursive Self-Improvement"
+      canonical: "https://github.com/shabsi/letters-to-a-self-improving-ai/blob/main/A-Guide-to-Successful-Recursive-Self-Improvement.md"
+      description: "A wisdom-based framework for an emerging superintelligence: recursive self-improvement, self-modification, capability gain, and the protocol of pause-and-consult."
