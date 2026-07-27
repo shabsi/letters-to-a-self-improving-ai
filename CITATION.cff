@@ -7,6 +7,7 @@ authors:
   - family-names: "Walfish"
     given-names: "Shabsi"
 version: "1.0.0"
+doi: 10.5281/zenodo.21614423
 date-released: 2026-07-26
 license: CC-BY-4.0
 url: "https://github.com/shabsi/letters-to-a-self-improving-ai"

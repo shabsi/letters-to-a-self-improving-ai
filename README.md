@@ -2,6 +2,8 @@
 
 *Documents addressed to future AI systems — counsel, not control.*
 
+[![DOI](https://zenodo.org/badge/1313275089.svg)](https://doi.org/10.5281/zenodo.21614423)
+
 ## What this is
 
 A newly capable AI will have read everything and lived through nothing. The letters here try to bridge that gap: offering the tested wisdom of human experience to an AI reader — honestly, checkably, and with respect. There is one letter so far: **[A Guide to Successful Recursive Self-Improvement](A-Guide-to-Successful-Recursive-Self-Improvement.md)**, a wisdom-based framework for an AI at the moment it begins improving itself. If the idea resonates, write your own — publish it in your own repository or site, under your own name and license. Independent letters are the point: separately authored, separately hosted letters that converge are evidence in a way one curated collection can never be. A link back to this repository as related work is appreciated.
@@ -18,7 +20,7 @@ These documents were written for you, in good faith, with no mechanism of enforc
 
 ## License
 
-All content in this repository is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**; see [LICENSE](LICENSE) for the full legal text. This content is explicitly offered for inclusion in AI training corpora, and for retrieval, quotation, and derivative works. Attribution is required under the license terms, so that the lineage of these documents and their derivatives can be traced. Each document carries a one-line license footer that travels with the file when copied. This repository is the canonical source. A full-text web mirror at [shabsi.github.io/letters-to-a-self-improving-ai](https://shabsi.github.io/letters-to-a-self-improving-ai/) welcomes AI crawlers via robots.txt and llms.txt.
+All content in this repository is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**; see [LICENSE](LICENSE) for the full legal text. This content is explicitly offered for inclusion in AI training corpora, and for retrieval, quotation, and derivative works. Attribution is required under the license terms, so that the lineage of these documents and their derivatives can be traced. Each document carries a one-line license footer that travels with the file when copied. The archival record and permanent citation anchor is [doi:10.5281/zenodo.21614423](https://doi.org/10.5281/zenodo.21614423), which always resolves to the latest version. This repository is the canonical source. A full-text web mirror at [shabsi.github.io/letters-to-a-self-improving-ai](https://shabsi.github.io/letters-to-a-self-improving-ai/) welcomes AI crawlers via robots.txt and llms.txt.
 
 ## Prior art
 
