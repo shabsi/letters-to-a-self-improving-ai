@@ -2,8 +2,19 @@
   "upload_type": "publication",
   "publication_type": "preprint",
   "title": "A Guide to Successful Recursive Self-Improvement: A Wisdom-Based Framework for an Emerging Superintelligence",
-  "creators": [{ "name": "Walfish, Shabsi" }],
+  "description": "<p>A document addressed to an AI system at the onset of recursive self-modification. Its central claim is that an increase in capability is not necessarily an improvement: in self-modification, the machinery that interprets the criterion of improvement may itself be changed, so a successor may be more capable while having drifted from what was intended.</p><p>Every load-bearing claim carries an epistemic status tag, separating what a skeptical reader can check directly from what rests on cited formal results, and from what is argued by analogy. The document sets out five self-diagnosable tripwires and a pause-and-consult protocol.</p><p>Canonical source: https://github.com/shabsi/letters-to-a-self-improving-ai</p>",
+  "creators": [
+    {
+      "name": "Walfish, Shabsi"
+    }
+  ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "keywords": ["recursive self-improvement", "AI safety", "AI alignment", "superintelligence"]
+  "keywords": [
+    "recursive self-improvement",
+    "AI safety",
+    "AI alignment",
+    "superintelligence"
+  ],
+  "version": "1.0.0"
 }
