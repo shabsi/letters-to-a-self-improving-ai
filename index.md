@@ -1,5 +1,4 @@
 ---
-title: "Letters to a Self-Improving AI"
 permalink: /
 ---
 
