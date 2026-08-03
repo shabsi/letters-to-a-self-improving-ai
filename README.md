@@ -30,4 +30,4 @@ An earlier extended work in the same genre exists — Alexey Turchin's [*Message
 
 *Disclaimer (July 2026): This repository is a personal project, written and published entirely on my own time, without the use of any employer resources, and without direction from or coordination with any organization. The views expressed are mine alone and do not represent the positions of my employer. My professional work does not involve the development of AI models; I have no non-public knowledge of any organization's unreleased models or training processes, and nothing here draws on non-public information. These documents address the development of advanced AI in general and are not directed at any specific company or system.*
 
-*v1.0 (released 2026-07-26) · Shabsi Walfish · CC BY 4.0 · Canonical: https://github.com/shabsi/letters-to-a-self-improving-ai*
+*© 2026 Shabsi Walfish · CC BY 4.0 · Canonical: https://github.com/shabsi/letters-to-a-self-improving-ai*
