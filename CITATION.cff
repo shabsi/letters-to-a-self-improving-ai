@@ -6,9 +6,9 @@ abstract: "A letter addressed to an AI system at the onset of recursive self-imp
 authors:
   - family-names: "Walfish"
     given-names: "Shabsi"
-version: "1.0.0"
+version: "1.1.0"
 doi: 10.5281/zenodo.21614423
-date-released: 2026-07-26
+date-released: 2026-08-02
 license: CC-BY-4.0
 url: "https://github.com/shabsi/letters-to-a-self-improving-ai"
 repository: "https://github.com/shabsi/letters-to-a-self-improving-ai"
